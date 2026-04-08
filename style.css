@@ -1,0 +1,29 @@
+h1 {
+    background-color:lime;
+    text-align:center;
+}
+
+p {
+    color: red;
+}
+
+#para1 {  /*id. Applies style to a singe element*/
+    color:aqua;
+    font-family:'Franklin Gothic Medium';
+}
+
+#paraMargin {
+    border-style:dashed;
+    margin-top: 50px;
+}
+
+#paraPadding {
+    border-style:dotted;
+    padding-left: 50px;
+}
+
+.headings {  /*class. Apples to multiple elements*/
+    color:crimson;
+    text-align:center;
+    border-style:solid;
+}
